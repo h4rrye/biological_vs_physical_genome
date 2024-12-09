@@ -1,7 +1,7 @@
 # **Biological Features vs Physical Attributes of the Genome**
 
 <center>
-<img src="extras/genome_arc.jpg" width="80%" alt="Genome Architecture">
+<img src="genome_arc.jpg" width="80%" alt="Genome Architecture">
 </center>
 ---
 
